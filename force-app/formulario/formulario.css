@@ -1,4 +1,8 @@
 h1{
-color: crimson;
+color:rgb(218, 36, 36);
 text-align: center;
+}
+
+body{
+background-color: rgba(246, 240, 240, 0.719);
 }
